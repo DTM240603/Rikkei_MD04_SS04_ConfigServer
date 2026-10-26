@@ -1,0 +1,9 @@
+# Cấu hình mặc định của api-gateway
+spring:
+  application:
+    name: api-gateway
+
+app:
+  title: API Gateway
+  description: API Gateway for handling requests and routing to microservices
+  language: vietnam

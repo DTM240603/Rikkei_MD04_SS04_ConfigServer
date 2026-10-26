@@ -1,0 +1,5 @@
+# Cấu hình ưu tiên cho profile = dev
+app:
+  title: API Gateway Update
+  description: Dev
+  language: english
